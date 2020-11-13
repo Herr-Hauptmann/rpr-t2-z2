@@ -38,7 +38,6 @@ public class Interval<toString> {
     }
 
 
-    public boolean isNull() {
-        if ();
-    }
+//    public boolean isNull() {
+//    }
 }
